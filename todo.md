@@ -20,3 +20,4 @@ gpg2 --no-default-keyring --secret-keyring ./foo.sec \
         --keyring ./foo.pub --list-secret-keys
 
 
+https://www.gnupg.org/documentation/manuals/gnupg/Unattended-GPG-key-generation.html
