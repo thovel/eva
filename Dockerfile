@@ -7,4 +7,4 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y emacs24-nox
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y git
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y curl
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y byobu
-
+RUN DEBIAN_FRONTEND=noninteractive apt-get install -y gnupg2
